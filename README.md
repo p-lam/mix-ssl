@@ -1,3 +1,3 @@
 # Leveraging Image Mixtures in Unsupervised Detection Pre-training
 
-Run with `python run_detmix.py` with desired arguments
+To train the model, run `python run_detmix.py` with desired arguments
